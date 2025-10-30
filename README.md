@@ -39,3 +39,5 @@ Simulates real-time operations of buses and passenger arrivals using PHP.
 
 ## 📂 Project Structure
 ├── bus_dataset.csv # Dataset file
+├── System_Details_and_Objectives.docx # Project proposal / system details
+├── README.md # Project documentation
